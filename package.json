@@ -2,11 +2,11 @@
   "name": "testcafe-reporter-my-reporter",
   "version": "1.0.0",
   "description": "my-reporter TestCafe reporter plugin.",
-  "repository": "https://github.com/luavigar/testcafe-reporter-my-reporter",
+  "repository": "my-reporter",
   "author": {
     "name": "",
     "email": "",
-    "url": "https://github.com/luavigar/my-reporter"
+    "url": "https://github.com/luavigar/my-reporter.git"
   },
   "main": "lib/index",
   "files": [
